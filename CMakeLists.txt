@@ -6,8 +6,8 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 #link_directories("/usr/local/lib")
 
-find_package(GTest REQUIRED)
-message("GTest_INCLUDE_DIRS = ${GTest_INCLUDE_DIRS}")
+#find_package(GTest REQUIRED)
+#message("GTest_INCLUDE_DIRS = ${GTest_INCLUDE_DIRS}")
 
 include(FetchContent)
 FetchContent_Declare(

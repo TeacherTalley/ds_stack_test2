@@ -1,5 +1,4 @@
-# Copy from factorial_test4 to ds_stack_test
-# replaced main.cpp with main from ds_code/ds_stack
+# Initial autograding test project using Stack
 
 # Run these commands
 cmake -S . -B build
